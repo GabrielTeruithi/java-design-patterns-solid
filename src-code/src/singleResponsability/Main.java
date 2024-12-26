@@ -1,7 +1,5 @@
 package singleResponsability;
 
-import java.io.IOException;
-
 //Main class to test
 public class Main {
 	//A valid USER JSON String
@@ -10,7 +8,7 @@ public class Main {
 	//Invalid USER JSON String - email format wrong
 	private static final String INVALID_USER_JSON = "{\"name\": \"Sam\", \"email\": \"sam@email\", \"address\":\"111 Sugar lane\"}";
 	
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) {
 		UserController controller = new UserController();
 		//Check with valid JSON
 		String response = controller.createUser(VALID_USER_JSON);	
