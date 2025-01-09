@@ -13,5 +13,4 @@ public interface PersistenceService<T extends Entity> {
 	
 	public T findById(Long id);
 	
-	public List<T> findByName(String name);
 }
