@@ -1,4 +1,4 @@
-package com.company.depinv;
+package depinv;
 
 //Common interface for classes formatting Message object
 public interface Formatter {

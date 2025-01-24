@@ -1,4 +1,4 @@
-package com.company.depinv;
+package depinv;
 
 //Formats Message to plain text
 public class TextFormatter implements Formatter{

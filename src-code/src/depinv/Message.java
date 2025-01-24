@@ -1,4 +1,4 @@
-package com.company.depinv;
+package depinv;
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;
