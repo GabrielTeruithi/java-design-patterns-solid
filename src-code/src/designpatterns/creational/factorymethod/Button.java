@@ -1,4 +1,4 @@
-package designpatterns.creational.abstractfactory;
+package designpatterns.creational.factorymethod;
 
 abstract interface Button {
     public void render();
