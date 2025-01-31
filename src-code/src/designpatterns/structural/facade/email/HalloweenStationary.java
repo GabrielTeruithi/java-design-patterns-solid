@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.facade.email;
+package designpatterns.structural.facade.email;
 
 public class HalloweenStationary implements Stationary {
 

@@ -1,6 +1,6 @@
-package com.coffeepoweredcrew.facade;
+package designpatterns.structural.facade;
 
-import com.coffeepoweredcrew.facade.email.EmailFacade;
+import designpatterns.structural.facade.email.EmailFacade;
 
 public class Client {
 

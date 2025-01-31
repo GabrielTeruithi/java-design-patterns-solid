@@ -1,6 +1,6 @@
-package com.coffeepoweredcrew.facade.email;
+package designpatterns.structural.facade.email;
 
-import com.coffeepoweredcrew.facade.email.Template.TemplateType;
+import designpatterns.structural.facade.email.Template.TemplateType;
 
 public class TemplateFactory {
 

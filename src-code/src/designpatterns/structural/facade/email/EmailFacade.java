@@ -1,7 +1,7 @@
-package com.coffeepoweredcrew.facade.email;
+package designpatterns.structural.facade.email;
 
-import com.coffeepoweredcrew.facade.Order;
-import com.coffeepoweredcrew.facade.email.Template.TemplateType;
+import designpatterns.structural.facade.Order;
+import designpatterns.structural.facade.email.Template.TemplateType;
 
 //Facade provides simple methods for client to use
 public class EmailFacade {

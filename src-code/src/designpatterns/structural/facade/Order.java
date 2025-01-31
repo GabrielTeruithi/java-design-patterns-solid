@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.facade;
+package designpatterns.structural.facade;
 
 public class Order {
 
