@@ -13,6 +13,8 @@ public class AddMemberCommand implements Command {
         this.receiver = service;
     }
 
+    
+
     @Override
     public void execute() {
         receiver.addMember(emailAddress, listName);
