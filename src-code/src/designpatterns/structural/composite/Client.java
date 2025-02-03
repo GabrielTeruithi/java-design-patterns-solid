@@ -1,4 +1,5 @@
-package com.coffeepoweredcrew.composite;
+package designpatterns.structural.composite;
+
 
 public class Client {
 	

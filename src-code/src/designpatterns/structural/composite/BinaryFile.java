@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.composite;
+package designpatterns.structural.composite;
 
 //Leaf node in composite pattern
 public class BinaryFile extends File {

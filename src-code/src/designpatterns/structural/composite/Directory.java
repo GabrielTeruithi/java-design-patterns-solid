@@ -1,7 +1,7 @@
-package com.coffeepoweredcrew.composite;
+package designpatterns.structural.composite;
+
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 
 //Composite in the composite pattern

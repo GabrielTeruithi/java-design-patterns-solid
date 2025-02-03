@@ -1,4 +1,5 @@
-package com.coffeepoweredcrew.composite;
+package designpatterns.structural.composite;
+
 
 //The component base class for composite pattern
 //defines operations applicable both leaf & composite 
